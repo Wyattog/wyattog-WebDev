@@ -1,0 +1,40 @@
+p{float: right;
+    text-align: center;
+    margin: 40px 200px;
+    font-family: Georgia;
+    font-size: 18px;
+}
+h1{
+    color: lightseagreen;
+    float: right;
+}
+h2{
+    font-size: 26px;
+    background-color: lightseagreen;
+    color: white;
+    border: solid 2px;
+    text-align: center;
+}
+li{
+    font-size: 18px;
+    text-align: center;
+}
+head,
+footer{
+    height: 100%;
+    width: 100%;
+}
+body{
+    max-width:100%;
+    height: auto;
+}
+.sites{
+    
+}
+.background{
+    background-image: img("images/background.jpg");
+}
+td{
+    margin:10px;
+    text-align: center;
+}
